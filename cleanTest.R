@@ -17,7 +17,7 @@ population <- read_csv("~/Dropbox/ADM Group Assessment/The Development/Structed 
 childcare <- read_excel("~/Dropbox/ADM Group Assessment/The Development/Education_Childcare_dataset_as_at_31_March_2018_new (version 1).xlsx",sheet = "Childcare_providers", col_types = c("text","text", "text", "text", "date", "text","text", "text", "text", "text", "text","text", "text", "text", "text", "text","text", "text", "text", "text", "text","numeric", "text", "text", "text","text", "text", "text", "text", "text","text", "text", "text", "text", "text","text", "text", "text", "text"))
 childcare2 <- read_csv("~/Dropbox/ADM Group Assessment/The Development/Structed Data/facilities.csv")
 housing <- read_csv("~/Dropbox/ADM Group Assessment/The Development/Structed Data/housing.csv")
-#
+
 ###########################################################################
 ###########################################################################
 
